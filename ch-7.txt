@@ -1,0 +1,36 @@
+                     MODEL EXAMINATION QUESTIONS OF CH - 7
+	# True/False questions
+1. Boundary objects can usually only talk to controllers and actors.
+=>  TRUE
+
+2. A use case  doesn’t have a clear boundaries.
+=> FALSE
+
+3. Controllers can talk to boundary objects and entity objects, and to other controllers and to actors.
+=> TRUE
+
+4. Entity objects can always only talk to controllers and boundary objects.  
+=> FALSE
+
+
+	# Short Answer Questions
+1. What is requirement?
+=> A requirement is a documented need or condition that a particular product or system must satisfy. It defines the functions, behaviors, and constraints of a system and serves as the foundation for design and development.
+
+2. Why is writing use case	can be an iterative?
+=> Writing use cases is iterative because as the understanding of the system and its requirements evolves, new scenarios may be discovered, and existing ones might need refinement. Iteration helps ensure that all aspects of the system are covered comprehensively and accurately.
+
+3. Explain actor, goal and	scenario?
+=> Actor: An actor is an entity (typically a user or another system) that interacts with the system being designed.
+=> Goal: A goal is the outcome or objective that the actor aims to achieve through interaction with the system.
+=> Scenario: A scenario is a specific sequence of actions or events that describes how an actor achieves a goal within a use case.
+
+4. What are	the classification of	 object discovered via textual analysis?
+=> The objects discovered via textual analysis can be classified into Boundary Objects, Entity Objects, and Controller Objects:
+    -> Boundary Objects: Interface objects that handle interactions between the system and actors.
+    ->Entity Objects: Objects that represent the data and business logic of the system.
+    -> Controller Objects: Objects that manage the control flow and logic of interactions within the system.
+  
+
+
+

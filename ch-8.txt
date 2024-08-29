@@ -1,0 +1,39 @@
+                           MODEL EXAMINATION QUESTIONS OF CH - 8
+	# True/False questions
+1. HTML is super type of XML.
+=>  FALSE
+
+2. XML allow	us to define custom tags.
+=> TRUE
+
+3. XML is one of a script type language.
+=> FALSE
+
+4. Domain modeling identify only one class.  
+=> FALSE
+	# Short Answer Questions
+1.What is XML?
+=> XML (eXtensible Markup Language) is a markup language that is used to store, transport, and structure data in a plain-text format. It allows users to create custom tags that define the meaning of the data, making it both machine-readable and human-readable. XML is widely used in data exchange between systems.
+
+2. Advantage of XML?
+=> Flexibility: XML allows for custom-defined tags, making it highly adaptable to various data formats.
+=> Platform Independence: XML can be used across different platforms and programming languages.
+=> Data Sharing: XML is commonly used for data interchange between systems, especially over the internet.
+=> Human-Readable: The plain-text format of XML makes it easy to read and understand by both humans and machines.
+=> Hierarchical Structure: XML’s tree-like structure allows for the clear organization of complex data.
+
+3. Explain low level	design?
+=> Low-level design (LLD) is the process of detailing the individual components of a system’s architecture. It translates the system’s high-level design into more specific, actionable details, such as class diagrams, function designs, and database schemas.
+=> LLD focuses on how the system’s components will be implemented, including the selection of algorithms, data structures, and technologies.
+
+4. Explain how to identify	a class??
+=> Textual Analysis: Review the system’s requirements and use cases to identify nouns, which often correspond to potential classes.
+=> Domain Modeling: Analyze the problem domain to identify key entities and their relationships, which can be modeled as classes.
+=> Responsibilities: Consider the responsibilities that need to be assigned to different parts of the system. A class should encapsulate a set of responsibilities that are logically grouped together.
+=> Reusability: Identify reusable components of the system’s functionality that could be represented as classes.
+=> Interaction: Look for objects or entities that need to interact within the system. These often correspond to classes that will collaborate to achieve the system's goals.
+  
+
+
+
+
