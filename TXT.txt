@@ -1,1 +1,4 @@
 group project one on github
+   model examination questions ch-7
+* true or false
+1. Boundary objects can usually only talk to controllers and actors.
