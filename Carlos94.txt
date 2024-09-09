@@ -1,0 +1,56 @@
+
+
+            INDIVIDUAL assingmt ON GITHUB
+NAME:Carlos Aragaw   ID:141414/19        DEP:SWE
+
+        Model examination questions ch-7
+
+ True or False
+
+TRUE 1. Boundary objects can usually only talk to controllers and actors.
+FALSE 2. A use case doesn't have a clear boundaries.
+TRUE 3. controllers can talk to boundary objects and entity objects and to other controllers and to actors.
+FALSE 4. Entity objects can always only talk to controllers and boundary objects.
+
+   Short Answer Questions
+
+1.	what is requirement?
+ => Is a specification of what a system should do or a constraint on the systems operation.
+It defines the functionalities, performance and attributes that a system must have to meet the needs of it's users or stake holders.
+2. why is writing use case can be an iterative?
+ => writing use cases is iterative because as the understanding of the system evolves, new use cases may be discovered, or existing use cases may need to be refined. iteration allows for continuous improvement and adaption to insure that all user interactions are accurately captured.
+3. explain actor goal and scenario?
+   => Actor :- An actor represents any entity (human or system)that interacts with the system. Actors can be users external systems or devices.
+   => Goal :- A goal is the objective or outcome that the actor wants to achieve through their interaction with the system.
+   => Scenario :- A scenario is a specific sequence of actions and interactions between the actors and the system that leads to the achievement of the actors goal.   
+
+4. what are classification of object discovered via textual analysis?
+  => Objects discovered during analysis and design can be classified into:
+     Boundary objects:- Objects that interface with actors such as user interface APIs, or input/output devices.
+     Entity objects:-  Objects that represent business entities or data within the system, typically corresponding to tables in a database.
+     Control objects:- objects that manage the flow of control between boundary and entity objects, handling the business logic and process control.
+
+        Model examination questions ch-8
+
+  True or False
+
+FALSE 1. HTML is super type of XML.
+TRUE 2. XML allow us to define custom tags.
+FALSE 3. XML is one of a script type language.
+FALSE 4. Domain modeling identify only one class.
+
+  Short Answer
+ 
+1. what is XML?
+  => XML is a markup language that defines rules for encoding documents in a format that is both human-readable and machine-readable. XML is used to structure, store, and transport data across different systems.
+2. Advantage of XML?
+  => Customizable : XML allows to define their own tags, making it flexible for various applications.
+  => platform-independent: XML can be used across different platforms and systems. 
+3. Explain low level design?
+  => LLD focuses on the implementation details of a system.
+    it involves designing the specific modules, classes, and          functions that make up the system, defining how these components interact at a granular level.
+4. Explain how to identify a class?
+    => -Identify Nouns
+       -Group Similar Entities
+       -Determine Responsibility      
+       -Check for Reusability
