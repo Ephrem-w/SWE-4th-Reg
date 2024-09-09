@@ -1,7 +1,7 @@
-ITS ME ABDULLAH MOHAMMED 
 
-            INDIVIDUAL PROJECT ON GITHUB
-NAME:Abdullah Mohammed   ID:1409/19        DEP:SWE
+
+            INDIVIDUAL assingmt ON GITHUB
+NAME:Carlos Aragaw   ID:141414/19        DEP:SWE
 
         Model examination questions ch-7
 
