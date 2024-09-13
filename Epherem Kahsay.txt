@@ -1,7 +1,7 @@
 
 
             INDIVIDUAL assingmt ON GITHUB
-NAME:Carlos Aragaw   ID:141414/19        DEP:SWE
+NAME:Ephrem Kahsay    ID:1436/19        DEP:SWE
 
         Model examination questions ch-7
 
