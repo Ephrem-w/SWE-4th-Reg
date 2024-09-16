@@ -1,0 +1,43 @@
+MODEL EXAMINATION QUESTIONS.
+I:	True/False	questions
+
+1. HTML	is	super	type	of	XML.
+2. XML	allow	us	todefine	custom	tags.
+3. XML is one of a script type language.
+4. Domain modeling identify only one class.
+
+II:	Short	Answer	Questions
+
+1. What	is	XML?
+2. Advantage	of	XML?
+3. Explain	low	level	design?
+4. Explain	how	to	identify a class?
+
+Answer
+
+1.False
+2.True
+3.False
+4.False
+
+Short answer
+
+1. XML (eXtensible Markup Language) is a markup language designed for storing and transporting data.
+
+2.advantages:
+
+Platform-independent: It can be used across different systems and platforms.
+
+Extensible: Users can define their own tags.
+
+Self-descriptive: The structure of the data is embedded within the data itself.
+
+3.ow-level design (LLD) involves the detailed design of individual components or modules of a system. It includes the design of algorithms, data structures, and the interaction between different modules. LLD is more detailed than high-level design and focuses on the implementation aspects of the system.
+
+4.To identify a class in domain modeling:
+
+Analyze the problem domain: Identify the key entities and concepts.
+
+Look for nouns: In the problem description, nouns often represent potential classes.
+
+Define attributes and behaviors: Determine the properties (attributes) and actions (methods) associated with each class.
