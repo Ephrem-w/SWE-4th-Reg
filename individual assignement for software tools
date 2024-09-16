@@ -1,1 +1,73 @@
+Name Mewael yemane 
+ID 1578/19
+SW Tool Assignment 
 
+Chapter - 7
+
+I:True/False questions
+1, False
+2,False
+3, True
+4,False
+
+II:short answer question
+
+1. What is a requirement? A requirement is a specific need or condition that a system or product must meet or fulfill. It can be functional (defining what the system should do) or non-functional (defining system qualities or constraints, like performance or security). Requirements guide the design and development process to ensure the final product meets user needs.
+
+2. Why is writing use cases iterative? Writing use cases can be iterative because the understanding of the system’s requirements may evolve over time. New details might emerge, feedback from stakeholders may lead to adjustments, and the process of refining use cases can help uncover missing or unclear aspects of the system, requiring continuous updates.
+
+3. Explain actor, goal, and scenario.
+
+Actor: An actor is any entity (person, system, or organization) that interacts with the system in a use case. It could be a user or an external system.
+
+Goal: A goal is the desired outcome or objective that the actor seeks to achieve by interacting with the system.
+
+Scenario: A scenario is a specific sequence of steps or actions that detail how an actor achieves their goal by interacting with the system. It describes how the system and actor collaborate to achieve the objective.
+
+4. What are the classifications of objects discovered via textual analysis? Objects discovered through textual analysis can be classified into:
+
+Boundary Objects: Objects that manage interactions between the system and external actors (e.g., user interfaces or system interfaces).
+
+Entity Objects: Objects that represent information and data, often tied to the business logic of the system (e.g., customer or order data).
+
+Controller Objects: Objects that handle control and coordination, managing interactions between boundary and entity objects, and other system processes.
+
+Chapter-8
+Here are the answers to your True/False 
+
+1. False
+2. True
+3. False 
+4. False
+II short answer
+
+1. What is XML?
+XML (eXtensible Markup Language) is a flexible text-based format used for storing and transporting data. Unlike HTML, which focuses on how data is displayed, XML focuses on defining the structure of the data, allowing it to be easily shared across different systems. XML allows users to create custom tags to organize data hierarchically.
+
+2. Advantage of XML?
+
+Platform-independent: XML can be used across different systems and platforms.
+
+Self-descriptive: The structure and data are both included in XML, making it easy to interpret the information.
+
+Extensible: Users can define their own tags, allowing XML to represent complex data.
+
+Human-readable: XML files are in plain text format, which can be easily read by humans.
+
+Data interchange: XML is widely used for exchanging data between web services and other applications.
+
+3. Explain low-level design (LLD)?
+Low-level design (LLD) refers to the process of designing the internal structure of each software component or module. It defines how the components interact with each other, the logic behind algorithms, database structures, interfaces, and function-level details. LLD includes class diagrams, sequence diagrams, and flowcharts, providing developers with detailed guidelines on how to implement the system based on the high-level design.
+
+4. Explain how to identify a class?
+To identify a class in object-oriented programming, follow these steps:
+
+Analyze the problem domain: Break down the problem into entities, objects, or actors.
+
+Look for nouns: In use cases or requirement specifications, nouns often represent potential classes.
+
+Identify responsibilities: Determine the functionality that each class should provide, grouping related data and methods.
+
+Check for reuse: A class should represent a reusable entity, encapsulating attributes and behaviors common across instances.
+
+Follow abstraction: The class should represent a real-world concept at an appropriate level of abstraction, focusing on relevant properties and actions.
